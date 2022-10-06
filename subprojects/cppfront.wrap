@@ -1,0 +1,8 @@
+[wrap-git]
+directory=cppfront
+url=https://github.com/jpakkane/cppfront
+revision=main
+
+[provide]
+cpp2 = cpp2_dep
+program_names = cppfront

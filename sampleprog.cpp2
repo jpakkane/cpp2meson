@@ -1,0 +1,4 @@
+main: () -> int = {
+    std::cout << "Cpp2 compilation is working.\n";
+    return 0;
+}
